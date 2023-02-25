@@ -1,9 +1,12 @@
 # spotvue
-<a href="https://developer.spotify.com/documentation/general/design-and-branding/">Spotify Wiki</a>
+
+<p>Esse projeto foi criado com o intuito de me aprofundar no framework vue criando um clone do spotify usando sua propria documentação como guia</p>
+
+<a href="https://developer.spotify.com/documentation/">Spotify Doc</a>
 
 <img src="SpotWiki.png">
 
-<a href="https://vuejs.org/guide/introduction.html">Vue Wiki</a>
+<a href="https://vuejs.org/guide/introduction.html">Vue Doc</a>
 
 <img src="VueWiki.png">
 
