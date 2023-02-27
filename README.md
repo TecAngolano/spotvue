@@ -1,6 +1,6 @@
 # spotvue
 
-<p>Esse projeto foi criado com o intuito de me aprofundar no framework vue criando um clone do spotify usando sua propria documentação como guia</p>
+<p>Esse projeto foi criado com o intuito de me aprofundar no framework vue criando um clone do spotify usando sua propria documentação como guia, planejo terminar o curso antes de começar a desenvolver o clone</p>
 
 <a href="https://developer.spotify.com/documentation/">Spotify Doc</a>
 
