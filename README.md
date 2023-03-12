@@ -2,11 +2,11 @@
 
 <p>Esse projeto foi criado com o intuito de me aprofundar no framework vue criando um clone do spotify usando sua propria documentação como guia, planejo terminar o curso antes de começar a desenvolver o clone</p>
 
-<a href="https://developer.spotify.com/documentation/">Spotify Doc</a>
+<a href="https://developer.spotify.com/documentation/">Spotify Documentation</a>
 
 <img src="SpotWiki.png">
 
-<a href="https://vuejs.org/guide/introduction.html">Vue Doc</a>
+<a href="https://vuejs.org/guide/introduction.html">Vue Documentation</a>
 
 <img src="VueWiki.png">
 
